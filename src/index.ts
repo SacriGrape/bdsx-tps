@@ -1,0 +1,3 @@
+import './NativeModule';
+
+import './command';

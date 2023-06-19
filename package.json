@@ -1,0 +1,16 @@
+{
+  "name": "@bdsx/tps",
+  "version": "1.0.0",
+  "description": "Adds a simple command to check server TPS! Using a Rust hooking DLL to handle the calculation for the smallest overhead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BDSX",
+    "tps",
+    "plugin"
+  ],
+  "author": "SacriGrape",
+  "license": "GPL-3.0"
+}
